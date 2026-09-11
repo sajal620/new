@@ -1,6 +1,5 @@
 {
-   [
-{
+  {
       "category_name": "Family",
       "name": "Toffee TV",
       "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
@@ -975,5 +974,4 @@
       },
       "logo": "https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png"
     }
-  ]
 }
