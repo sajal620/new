@@ -1,11 +1,6 @@
 {
-  "status": "success",
-  "name": "Toffee Live Channels",
-  "owner": "Monirul Islam",
-  "channels_amount": 75,
-  "Last_update": "2026-09-11",
-  "response": [
-    {
+   [
+{
       "category_name": "Family",
       "name": "Toffee TV",
       "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
